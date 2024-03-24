@@ -15,7 +15,7 @@
   display: flex;
   align-items: center;
 }
-.linkedin , .github , .email , .facebook ,  .leetcode{
+.linkedin , .github , .email , .facebook ,  .leetcode {
   display:flex;
   align-items: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -35,4 +35,13 @@
   margin-right: 5px;
   width:30px;
   border-radius: 50px;
+}
+.text{
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right:50px; 
+  padding-bottom:40px;
+  background-color: rgb(249, 193, 202);
+  border-radius: 100px;
+  font-size: 20px;
 }
